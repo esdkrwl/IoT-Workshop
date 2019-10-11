@@ -3,6 +3,7 @@
 #define FASTLED_ESP8266_RAW_PIN_ORDER
 
 //Bibliothek einbinden
+//https://github.com/FastLED/FastLED/wiki/Pixel-reference
 #include "FastLED.h"
 
 //Pin, an welchem die LED angeschlossen ist, festlegen
